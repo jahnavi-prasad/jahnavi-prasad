@@ -1,7 +1,7 @@
 # 💫 Hello There!
 My Name is Jahnavi Prasad. You can call me JP. <br>
 Know all about me at: www.jahnaviprasad.com<br><br>
-🔭 I’m currently working on [CollabRate](https://github.com/jahnavi-prasad/CollabRate)<br>🌱 I’m currently learning Data Visualizations<br>💬 Ask me about Front End, Data Ingestion, transfer, and analysis.<br>⚡ Fun fact: My second book is a work in progress
+🔭 I’m currently working on [Resume Lab](https://resumelab.tech/) & [CollabRate](https://github.com/jahnavi-prasad/CollabRate)<br>🌱 I’m currently learning Data Visualizations<br>💬 Ask me about Front End, Data Ingestion, transfer, and analysis.<br>⚡ Fun fact: My second book is a work in progress
 
 
 ## 🌐 Socials:
